@@ -4,7 +4,6 @@ from flask import Flask, render_template_string
 page_template = '''
         <div style="margin: auto; text-align: center;">
         <h1>Hello World!</h1>
-        <h2>My first Acorn!</h2>
         </div>
         '''
 
